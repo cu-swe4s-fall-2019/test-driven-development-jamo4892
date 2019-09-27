@@ -1,5 +1,10 @@
-"""This script contains unit tests for math_lib.py. It is run by a call
-from the .travis.yml file in this code repository."""
+"""
+This script contains unit tests for math_lib.py. It is run by a call
+from the .travis.yml file in this code repository.
+
+Alternatively, the unit tests below can be run from the command line.
+$ python math_lib_unittest.py
+"""
 
 import unittest
 import sys
